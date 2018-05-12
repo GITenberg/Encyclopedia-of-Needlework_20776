@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9521'
     url: http://www.gutenberg.org/2009/agents/9521
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20776#Encyclopedia-of-Needlework
 gutenberg_bookshelf:
 - Technology
 - Reference
